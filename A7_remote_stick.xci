@@ -315,7 +315,6 @@ event=ScreenModes previous
 mode=default
 type=gesture
 data=L
-event=StatusMessage Necum Bobe.
 event=ScreenModes next
 
 mode=default
