@@ -7,6 +7,9 @@ https://www.youtube.com/playlist?list=PL9kPSX54kefuFYvbrconY-khqX8SFhgzt
 Photos:
 https://www.zonerama.com/jelito/Album/6922525
 
+XCsoar forum thread for discussion:
+https://forum.xcsoar.org/viewtopic.php?f=3&t=4205
+
 ____________________
 
 ### Input event file (XCI file) for XCSoar
